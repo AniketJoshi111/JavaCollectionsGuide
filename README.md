@@ -73,4 +73,4 @@ This project demonstrates the usage of Java's `List`, `Set`, and `Map` interface
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/JavaCollectionsExamples.git
+   git clone https://github.com/AniketJoshi111/JavaCollectionsGuide.git
