@@ -1,9 +1,10 @@
+package sets;
 import java.util.HashSet;
 import java.util.Set;
 
 public class SetOperations {
     public static void main(String[] args) {
-        
+
         // 1. Creating two HashSets
         Set<String> set1 = new HashSet<>();
         Set<String> set2 = new HashSet<>();

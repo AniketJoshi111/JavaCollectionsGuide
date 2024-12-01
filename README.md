@@ -10,6 +10,7 @@ This project demonstrates the usage of Java's `List`, `Set`, and `Map` interface
      - Adding, removing, and accessing elements
      - Sorting, searching, and iterating
      - Working with sublists and checking existence of an element
+     -Stream API 
    - **Link**: [ArrayListExample.java](./lists/ArrayListExample.java)
 
 ### 2. **LinkedListExample.java**
